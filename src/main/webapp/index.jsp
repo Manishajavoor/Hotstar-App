@@ -25,7 +25,7 @@
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">IPL CRICKET</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
-            <li class="nav-items"><a href="#">Disney+</a></li>
+            <li class="nav-items"><a href="#">jiooooo+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
 
