@@ -23,7 +23,7 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
-            <li class="nav-items"><a href="#">IPL CRICKET</a></li>
+            <li class="nav-items"><a href="#">CRICKET</a></li>
             <li class="nav-items"><a href="#">HEHEHE PREMIUM</a></li>
             <li class="nav-items"><a href="#">ENTERTAINMENT</a></li>
             <li class="icon"><a href="#"></a></li>
